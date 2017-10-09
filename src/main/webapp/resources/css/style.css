@@ -1,0 +1,51 @@
+.login-panel{
+float:right;
+margin-right:80px;
+}
+.message-panel{
+float:left;
+margin-left:340px;
+}
+.base-color{
+background-color:#f6f561;
+}
+.panel-yellow {
+  
+border-color: #f6f561;
+
+}
+
+.panel-yellow > .panel-heading{
+
+color: #fff;
+  background-color: #f6f561;
+  border-color: #f6f561;
+
+}
+
+.panel-yellow > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #f6f561;
+
+}
+.panel-yellow > .panel-heading .badge {
+
+  color: #f6f561;
+  background-color: #fff;
+
+}
+
+.panel-yellow > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #f6f561;
+
+}
+.checkbox{
+ 	text-align : left; 
+ 	padding-left : 2.9em;
+}
+#bck-img{
+background-image: url("images/bck.jpg");
+background-size:cover;
+}
+#sup{
+display:none;
+}
